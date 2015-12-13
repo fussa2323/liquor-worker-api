@@ -1,0 +1,10 @@
+* profile
+  + 表示
+  + 更新
+* jobs
+  + 検索
+  + show
+    - メッセージ送信
+    - 応募
+* messages
+  + 一覧
